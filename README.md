@@ -1,2 +1,3 @@
 # alt_cmd
-Script permettant de lancer l'équivalent d'une console `cmd.exe` sur les ordinateurs où cette dernière est bloquée
+Simple and lightweight script to reproduce Windows cmd on system where cmd
+is blocked
